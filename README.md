@@ -22,37 +22,37 @@ With its user-friendly interface and multi-modal interaction, PJ69 adapts to you
 
 **Technical Stack:**
 
-  **Programming Language:** Python
+ 1. **Programming Language:** Python
 
-  **Libraries and Frameworks:**
-    NLTK for NLP
-    SpeechRecognition and pyttsx3 for speech
-    BeautifulSoup or Scrapy for web scraping
-    Selenium for web automation
-    Calendar management libraries
-    News and sports APIs
-    GUI libraries like Tkinter or PyQt5
-    Database libraries
-    Machine learning libraries for specific functionalities
+ 2. **Libraries and Frameworks:**
+   a. NLTK for NLP
+   b.SpeechRecognition and pyttsx3 for speech
+   c. BeautifulSoup or Scrapy for web scraping
+   d. Selenium for web automation
+   e. Calendar management libraries
+   f. News and sports APIs
+   g. GUI libraries like Tkinter or PyQt5
+   h.Database libraries
+   i.Machine learning libraries for specific functionalities
 
 
  **Packaging**: PyInstaller
 
 **Development Roadmap:**
   
-  Phase 1: Implement voice commands and text input for user interaction.
-  Phase 2:  Develop core functionalities like conversation, information access, and task automation.
-  Phase 3: Add advanced features like focus mode, user management, and customization options.
-  Phase 4: Continuously improve the assistant's accuracy, understanding, and user experience based on user feedback.
+ 1. Phase 1: Implement voice commands and text input for user interaction.
+ 2. Phase 2:  Develop core functionalities like conversation, information access, and task automation.
+ 3. Phase 3: Add advanced features like focus mode, user management, and customization options.
+ 4. Phase 4: Continuously improve the assistant's accuracy, understanding, and user experience based on user feedback.
 
 **Resources and References:**
 
-  NLTK library: https://www.nltk.org/
-  SpeechRecognition library: https://pypi.org/project/SpeechRecognition/
-  pyttsx3 library: https://pypi.org/project/pyttsx3/
-  BeautifulSoup library: https://tedboy.github.io/bs4_doc/
-  Scrapy framework: https://scrapy.org/
-  Selenium framework: https://www.selenium.dev/documentation/
-  PyInstaller: https://www.pyinstaller.org/
+ 1. NLTK library: https://www.nltk.org/
+ 2. SpeechRecognition library: https://pypi.org/project/SpeechRecognition/
+ 3. pyttsx3 library: https://pypi.org/project/pyttsx3/
+ 4. BeautifulSoup library: https://tedboy.github.io/bs4_doc/
+ 5. Scrapy framework: https://scrapy.org/
+ 6. Selenium framework: https://www.selenium.dev/documentation/
+ 7. PyInstaller: https://www.pyinstaller.org/
 
 
