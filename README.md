@@ -36,7 +36,7 @@ With its user-friendly interface and multi-modal interaction, PJ69 adapts to you
     9. Machine learning libraries for specific functionalities
 
 
- **Packaging**: PyInstaller
+3. **Packaging**: PyInstaller
 
 **Development Roadmap:**
   
