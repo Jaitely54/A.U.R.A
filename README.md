@@ -25,15 +25,15 @@ With its user-friendly interface and multi-modal interaction, PJ69 adapts to you
  1. **Programming Language:** Python
 
  2. **Libraries and Frameworks:**
-    2.1.) NLTK for NLP
-    2.1.)SpeechRecognition and pyttsx3 for speech
-     2.1.) BeautifulSoup or Scrapy for web scraping
-     2.1.) Selenium for web automation
-     2.1.) Calendar management libraries
-   f. News and sports APIs
-   g. GUI libraries like Tkinter or PyQt5
-   h.Database libraries
-   i.Machine learning libraries for specific functionalities
+    1. NLTK for NLP
+    2. SpeechRecognition and pyttsx3 for speech
+    3. BeautifulSoup or Scrapy for web scraping
+    4. Selenium for web automation
+    5. Calendar management libraries
+    6. News and sports APIs
+    7. GUI libraries like Tkinter or PyQt5
+    8. Database libraries
+    9. Machine learning libraries for specific functionalities
 
 
  **Packaging**: PyInstaller
