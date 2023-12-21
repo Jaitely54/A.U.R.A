@@ -13,12 +13,12 @@ With its user-friendly interface and multi-modal interaction, PJ69 adapts to you
 
 **Functionalities:**
 
- **Conversational AI**: Respond to user queries and hold natural conversations in Hindi and Hinglish.
- **Information Access**: Search the web, provide news updates, retrieve live scores, and answer user questions.
- **Task Automation** : Open/close apps, set alarms, schedule tasks, control Youtube playback, and manage other applications.
-  **User Management**: Remember user preferences and settings, personalize responses, and provide feedback mechanisms.
-  **Multi-modal Interaction**: Support voice commands for most functionalities and provide a user-friendly GUI for additional interaction.
-  **Focus Mode**: Create a distraction-free environment by blocking websites and silencing notifications.
+1. **Conversational AI**: Respond to user queries and hold natural conversations in Hindi and Hinglish.
+2. **Information Access**: Search the web, provide news updates, retrieve live scores, and answer user questions.
+3. **Task Automation** : Open/close apps, set alarms, schedule tasks, control Youtube playback, and manage other applications.
+4.  **User Management**: Remember user preferences and settings, personalize responses, and provide feedback mechanisms.
+5. **Multi-modal Interaction**: Support voice commands for most functionalities and provide a user-friendly GUI for additional interaction.
+6.  **Focus Mode**: Create a distraction-free environment by blocking websites and silencing notifications.
 
 **Technical Stack:**
 
